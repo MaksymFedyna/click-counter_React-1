@@ -1,0 +1,33 @@
+body {
+  background: cadetblue;
+}
+
+.container {
+  background: beige;
+  width: 350px;
+  height: 300px;
+  margin: 50px auto;
+  padding: 120px;
+  font-family: "Arial", sans-serif;
+}
+
+.header  {
+  margin: 0 auto;
+  font-size: 50px;
+  padding-bottom: 5px;
+  text-align: center;
+}
+
+.counter {
+  font-size: 80px;
+  text-align: center;
+}
+
+.btn {
+  background: cadetblue;
+  color: beige;
+  width: 200px;
+  height: 50px;
+  margin-left: 75px;
+  font-size: 25px;
+}
